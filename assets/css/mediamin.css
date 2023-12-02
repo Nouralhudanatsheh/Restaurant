@@ -1,0 +1,159 @@
+@media (max-width: 1430px) {
+  hr {
+    width: 90%;
+  }
+  .lastSecDiv {
+    width: 45%;
+  }
+}
+@media (max-width: 1230px) {
+  .nav {
+    width: 50%;
+  }
+  .firstSection .image {
+    padding-left: 0;
+    width: 20%;
+  }
+  .firstSection .aboutUs {
+    margin-top: 80px;
+  }
+  .secondSecimage {
+    padding-top: 40px;
+    padding-right: 35px;
+  }
+  .forthSec .dish {
+    width: 40%;
+  }
+}
+@media (max-width: 1180px) {
+  .lastSecDiv {
+    width: 30%;
+  }
+}
+@media (max-width: 1060px) {
+  .likingUs {
+    width: 80%;
+    margin-left: 60px;
+    padding: 0;
+  }
+  .secondSecimage {
+    padding-top: 40px;
+    width: 90%;
+    margin: auto;
+  }
+  .secondSecimage img {
+    width: 70%;
+    padding: 30px 150px;
+  }
+  hr {
+    width: 250px;
+  }
+}
+@media (max-width: 992px) {
+  .location,
+  .map {
+    margin-left: 60px;
+    padding: 0;
+  }
+  .nav {
+    width: 69%;
+  }
+  .firstSection .aboutUs {
+    margin-right: 50px;
+  }
+  .location {
+    width: 60%;
+  }
+  .map {
+    width: 80%;
+  }
+  .lastSec {
+    padding: 90px 30px;
+  }
+  .lastSecDiv {
+    width: 40%;
+  }
+  hr {
+    width: 90%;
+  }
+}
+@media (max-width: 768px) {
+  .logo,
+  .nav {
+    width: 100%;
+  }
+  .aboutUs,
+  .image {
+    margin-left: 60px;
+    padding: 0;
+  }
+  .aboutUs ul i {
+    font-size: 20px;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+  }
+  .aboutUs h2 {
+    font-size: 30px;
+  }
+  .aboutUs h3 {
+    font-size: 25px;
+  }
+  .aboutUs p,
+  .aboutUs ul {
+    font-size: 17px;
+  }
+  .nav {
+    font-size: 15px;
+    text-align: center;
+  }
+  .image {
+    width: 70%;
+  }
+  .aboutUs {
+    width: 80%;
+  }
+  .secondSecimage img {
+    width: 70%;
+    padding: 30px 110px;
+  }
+}
+@media (max-width: 665px) and (min-width: 621px) {
+  .lastSecDiv {
+    padding-bottom: 100px;
+  }
+}
+@media (max-width: 620px) {
+  .logo,
+  .nav {
+    width: 100%;
+  }
+  .nav {
+    font-size: 15px;
+    text-align: center;
+  }
+  .headerContent img {
+    height: 200px;
+  }
+  .headerContent h1 {
+    font-size: 50px;
+  }
+  .headerContent p {
+    font-size: 26px;
+  }
+  .image {
+    margin: auto;
+    padding: 0;
+  }
+  .firstSection .aboutUs,
+  .lastSecDiv {
+    width: 80%;
+  }
+  .forthSec .dish,
+  .secondSecimage {
+    width: 70%;
+  }
+  .forthSec {
+    padding: 90px;
+  }
+}
